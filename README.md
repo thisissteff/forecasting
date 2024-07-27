@@ -4,8 +4,8 @@ This repository contains the code and documentation for the forecasting project 
 
 ## Contents
 
-- **data/**: Contains the datasets used for training and testing.
-- **forecasting_bin.ipynb/**: code for prediction modelling
+- **data**: Contains the datasets used for training and testing.
+- **forecasting_bin.ipynb**: code for prediction modelling
 
 ## Getting Started
 
