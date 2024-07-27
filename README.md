@@ -5,9 +5,7 @@ This repository contains the code and documentation for the forecasting project 
 ## Contents
 
 - **data/**: Contains the datasets used for training and testing.
-- **notebooks/**: Jupyter notebooks with detailed analysis and model development.
-- **scripts/**: Python scripts for data preprocessing, model training, and evaluation.
-- **results/**: Output files including forecast results and model performance metrics.
+- **forecasting_bin.ipynb/**: code for prediction modelling
 
 ## Getting Started
 
